@@ -1,5 +1,4 @@
 .assets
-.env
 *.pyc
 dist/
 build/
@@ -13,3 +12,5 @@ docs/
 *.pyz
 *.pywz
 *.pyzz
+config.bat
+node_modules
